@@ -1,0 +1,16 @@
+# Dependencias y temporales
+node_modules/
+.expo/
+.npm/
+dist/
+build/
+scratch/
+
+# Entorno y logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Proyecto mobil React Native completo (se mantienen los entregables de diseño en la raíz)
+focusread-app/
